@@ -15,7 +15,7 @@ public class VidaPlayer : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.K)) RecibirDanio(10);   // solo para probar
+        
     }
 
     public void RecibirDanio(int cantidad)
