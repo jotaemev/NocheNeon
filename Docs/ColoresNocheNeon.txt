@@ -1,0 +1,23 @@
+Negro azulado
+#0B0F1A
+Fondo de pantallas, suelo y paredes
+
+Cian
+#00E5FF
+Player, barra de vida y botones principales
+
+Magenta
+#FF2BD6
+Carteles de neón, Boss y barra del Boss
+
+Rojo
+#FF3B4E
+Enemy1 y aviso de peligro
+
+Naranja
+#FF9F1C
+Enemy2 y puntuación
+
+Blanco hueso
+#E8ECF4
+Texto
