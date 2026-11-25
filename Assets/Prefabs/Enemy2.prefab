@@ -155,7 +155,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5773576fc6408604cb7e0f6256f37ea4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::VidaEnemigo
-  vida: 30
+  vida: 20
 --- !u!114 &6835926288012869617
 MonoBehaviour:
   m_ObjectHideFlags: 0
