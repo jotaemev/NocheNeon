@@ -13,4 +13,11 @@ public class GameController : MonoBehaviour
         juegoTerminado = true;
         Debug.Log("Game Over");   // en la sesión 3 aquí se activará el panel
     }
+
+    public void Victoria()
+    {
+        if (juegoTerminado) return;
+        juegoTerminado = true;
+        Debug.Log("Victoria");   // en el apartado 11 se activará el panel
+    }
 }
